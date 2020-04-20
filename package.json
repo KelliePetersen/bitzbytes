@@ -4,9 +4,13 @@
   "description": "A simpe bitcoin app made to test out Next.js",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "dev": "next",
     "build": "next build",
     "start": "next start"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 1e065a52991816228c66395a3a59d3fe0b726db5
   },
   "repository": {
     "type": "git",
