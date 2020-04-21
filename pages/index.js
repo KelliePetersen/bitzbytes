@@ -1,3 +1,4 @@
+import Fetch from 'isomorphic-unfetch';
 import Layout from '../components/layout';
 
 const Index = () => {
